@@ -89,9 +89,10 @@ My ultimate dream is to land a role where I can combine my love for **Rust** wit
 ---
 
 ### 🤝 Let's Connect & Collaborate!
-
 I'm always up for a chat, whether it's about a cool project, a job opportunity, or just geeking out about tech!
 
+*   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Baterna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-baterna-142379315/)
+*   [![Facebook](https://img.shields.io/badge/Facebook-Michael%20Baterna-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/michael.baterna.5)
 *   [![Discord](https://img.shields.io/badge/Discord-ALinuxPerson-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/618376354043396116) 
 *   [![Reddit](https://img.shields.io/badge/Reddit-ALinuxPerson-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/ALinuxPerson/)
 
