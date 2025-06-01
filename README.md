@@ -35,6 +35,7 @@ let me = Developer {
 
 *   🧠 Logical, analytical, and always eager to dive deep into how things work.
 *   💡 Passionate about **Rust** and its potential in modern systems.
+*   📦 Published Rust crates with **45k+ total downloads** on crates.io
 *   👨‍💻 Currently **seeking job opportunities** where I can contribute my skills and learn from experienced teams, especially in embedded systems, robotics, or AI.
 *   🤝 Open to **collaborating on interesting projects** – hit me up if you have an idea!
 *   🇩🇪 Learning German on the side! *Vielleicht können wir uns auf Deutsch unterhalten?* 😉
