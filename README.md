@@ -2,7 +2,7 @@
 
 🦀 **Rust enthusiast** | 🤖 **Future robotics engineer** | 🐧 **Linux veteran turned Mac user** | 🇩🇪 **German learner**
 
-[Visit my portfolio!](https://portfolio-six-kappa-61.vercel.app/) | [View my resume!](resume.pdf)
+[Visit my portfolio!](https://portfolio-six-kappa-61.vercel.app/) | [View my resume!](resume.pdf) | [Let's work together! Visit my Fiverr gig!](https://www.fiverr.com/s/akgKa38)
 
 I'm a freshly 18-year-old tech enthusiast and developer, driven by logic, analysis, and an insatiable curiosity for all things computers and technology. While my username proudly proclaims my love for Linux (and I have tons of experience using it on the desktop!), I'm currently enamored by the world of macOS (sorry, Linux fans 😭). Always learning, always exploring!
 
